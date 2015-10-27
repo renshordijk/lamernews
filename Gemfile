@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.1.5p273'
+ruby '2.1.5'
 
 gem 'sinatra','~> 1.4.2'
 gem 'redis','~> 3.0.4'
